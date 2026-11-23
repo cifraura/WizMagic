@@ -19,9 +19,9 @@ jobs:
       - uses: gradle/actions/setup-gradle@v4
 
       - name: Build
-        run: gradle -p wizmagic build
+        run: gradle build
 
       - uses: actions/upload-artifact@v4
         with:
           name: WizMagic-JAR
-          path: wizmagic/build/libs/*.jar
+          path: build/libs/*.jar
