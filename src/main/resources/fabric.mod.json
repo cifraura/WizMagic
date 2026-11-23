@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "wizmagic",
+	"version": "${version}",
+	"name": "Wizarding Magic",
+	"description": "Wands, spells and cinematic custom magic effects: Aqua, Lightning Arc, Inferno and Expulso. Every particle, texture, sound and effect is original.",
+	"authors": ["General Adolfo"],
+	"license": "MIT",
+	"icon": "assets/wizmagic/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["net.wizmagic.WizMagic"],
+		"client": ["net.wizmagic.client.WizMagicClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.0",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

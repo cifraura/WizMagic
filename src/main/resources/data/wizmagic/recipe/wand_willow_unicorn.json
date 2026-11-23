@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  C",
+    " S ",
+    "S  "
+  ],
+  "key": {
+    "C": "minecraft:amethyst_shard",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "wizmagic:wand_willow_unicorn",
+    "count": 1
+  }
+}

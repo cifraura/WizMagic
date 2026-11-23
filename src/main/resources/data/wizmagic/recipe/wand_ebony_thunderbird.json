@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  C",
+    " S ",
+    "S  "
+  ],
+  "key": {
+    "C": "minecraft:lightning_rod",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "wizmagic:wand_ebony_thunderbird",
+    "count": 1
+  }
+}

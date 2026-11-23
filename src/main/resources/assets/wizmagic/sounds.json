@@ -1,0 +1,86 @@
+{
+  "charge_aqua": {
+    "sounds": [
+      "wizmagic:charge_aqua"
+    ],
+    "subtitle": "subtitles.wizmagic.charge_aqua"
+  },
+  "cast_aqua": {
+    "sounds": [
+      "wizmagic:cast_aqua"
+    ],
+    "subtitle": "subtitles.wizmagic.cast_aqua"
+  },
+  "impact_aqua": {
+    "sounds": [
+      "wizmagic:impact_aqua"
+    ],
+    "subtitle": "subtitles.wizmagic.impact_aqua"
+  },
+  "charge_lightning": {
+    "sounds": [
+      "wizmagic:charge_lightning"
+    ],
+    "subtitle": "subtitles.wizmagic.charge_lightning"
+  },
+  "cast_lightning": {
+    "sounds": [
+      "wizmagic:cast_lightning"
+    ],
+    "subtitle": "subtitles.wizmagic.cast_lightning"
+  },
+  "impact_lightning": {
+    "sounds": [
+      "wizmagic:impact_lightning"
+    ],
+    "subtitle": "subtitles.wizmagic.impact_lightning"
+  },
+  "charge_inferno": {
+    "sounds": [
+      "wizmagic:charge_inferno"
+    ],
+    "subtitle": "subtitles.wizmagic.charge_inferno"
+  },
+  "cast_inferno": {
+    "sounds": [
+      "wizmagic:cast_inferno"
+    ],
+    "subtitle": "subtitles.wizmagic.cast_inferno"
+  },
+  "impact_inferno": {
+    "sounds": [
+      "wizmagic:impact_inferno"
+    ],
+    "subtitle": "subtitles.wizmagic.impact_inferno"
+  },
+  "charge_expulso": {
+    "sounds": [
+      "wizmagic:charge_expulso"
+    ],
+    "subtitle": "subtitles.wizmagic.charge_expulso"
+  },
+  "cast_expulso": {
+    "sounds": [
+      "wizmagic:cast_expulso"
+    ],
+    "subtitle": "subtitles.wizmagic.cast_expulso"
+  },
+  "impact_expulso": {
+    "sounds": [
+      "wizmagic:impact_expulso"
+    ],
+    "subtitle": "subtitles.wizmagic.impact_expulso"
+  },
+  "select": {
+    "sounds": [
+      "wizmagic:select"
+    ],
+    "subtitle": "subtitles.wizmagic.select"
+  },
+  "no_mana": {
+    "sounds": [
+      "wizmagic:no_mana"
+    ],
+    "subtitle": "subtitles.wizmagic.no_mana"
+  }
+}
